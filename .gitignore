@@ -72,3 +72,7 @@ crashlytics-build.properties
 /[Aa]ssets/[Ss]treamingAssets/aa/*
 
 *.vscode
+# Ignore all the IntelliJ IDEA-specific files and directories
+.idea/
+*.iml
+*.iws
